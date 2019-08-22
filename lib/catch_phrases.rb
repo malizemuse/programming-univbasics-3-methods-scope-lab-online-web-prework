@@ -13,5 +13,6 @@ def link
 end
 
 def any_phrase(phrase)
-  output_phrase = ""
+  output_phrase = phrase
+  puts phrase
 end
